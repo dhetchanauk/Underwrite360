@@ -59,7 +59,6 @@ Prereqs: Node.js 18.18+ (or 20+). Recommended package manager: pnpm.
 
 ### Dev (Windows PowerShell)
 ```powershell
-cd D:\College\Internship\Trigent\underwrite-360-project
 pnpm.cmd install
 pnpm.cmd dev
 ```
@@ -72,7 +71,6 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned -Force
 
 ### Using npm instead of pnpm
 ```powershell
-cd D:\College\Internship\Trigent\underwrite-360-project
 npm install
 npm run dev
 ```
