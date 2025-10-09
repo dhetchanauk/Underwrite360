@@ -1,0 +1,22 @@
+
+> my-v0-project@0.1.0 dev D:\College\Internship\Trigent\underwrite-360-project
+> next dev
+
+   ▲ Next.js 15.2.4
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.10:3000
+
+ ✓ Starting...
+ ✓ Ready in 2.6s
+ ○ Compiling / ...
+ ✓ Compiled / in 4.5s (738 modules)
+ GET / 200 in 5129ms
+ ✓ Compiled in 452ms (348 modules)
+ ○ Compiling /dashboard ...
+ ✓ Compiled /dashboard in 8.7s (2243 modules)
+ GET /dashboard 200 in 8828ms
+ GET /dashboard 200 in 22ms
+ GET / 200 in 232ms
+ GET /dashboard 200 in 144ms
+ GET / 200 in 47ms
+ GET /dashboard 200 in 52ms
